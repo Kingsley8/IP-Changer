@@ -1,0 +1,107 @@
+Mar 28 16:51:38.588 This version:            1.3.0-8
+Mar 28 16:51:38.713 Last available version:  1.3.0-8
+Mar 28 16:51:38.715 No update required. 
+Mar 28 16:51:38.792 ************************************************************
+
+IPchanger last update 26.10.2021
+
+************************************************************
+
+Message of the day: project open-sourced :)
+Repo url: https://github.com/seevik2580/tor-ip-changer
+
+************************************************************
+Mar 28 16:51:39.731 Autostart OFF. 
+Mar 28 16:51:39.838 API server binded to 127.0.0.1:14999 (local) OK.
+Mar 28 16:51:44.762 ------------------------------------------------------------
+Mar 28 16:51:44.762 Checking files. 
+Mar 28 16:51:44.837 No missing files
+Mar 28 16:51:44.839 ------------------------------------------------------------
+Mar 28 16:51:45.792 Relays in SG: 47
+ExitNodes in SG: 3
+Mar 28 16:51:45.796 TOR server starting 
+Mar 28 16:51:45.797 using direct connection. 
+Mar 28 16:51:45.801 Always obtain unique IP 
+Mar 28 16:51:45.801 OFF
+Mar 28 16:51:45.802 Please wait ... 
+Mar 28 16:51:47.638 5% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=5 TAG=conn SUMMARY="Connecting to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:51:48.033 10% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=10 TAG=conn_done SUMMARY="Connected to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:51:48.312 14% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=14 TAG=handshake SUMMARY="Handshaking with a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:51:48.969 95% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=95 TAG=circuit_create SUMMARY="Establishing a Tor circuit"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:52:25.811 TOR server stopped. 
+Mar 28 16:52:25.815 TOR server timed out.
+Mar 28 16:52:25.936 TOR server stopped. 
+Mar 28 16:52:31.931 ------------------------------------------------------------
+Mar 28 16:52:31.932 Checking files. 
+Mar 28 16:52:32.012 No missing files
+Mar 28 16:52:32.014 ------------------------------------------------------------
+Mar 28 16:52:32.941 Relays in MY: 18
+ExitNodes in MY: 3
+Mar 28 16:52:32.943 TOR server starting 
+Mar 28 16:52:32.945 using direct connection. 
+Mar 28 16:52:32.946 Always obtain unique IP 
+Mar 28 16:52:32.947 OFF
+Mar 28 16:52:32.949 Please wait ... 
+Mar 28 16:52:34.748 0% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=0 TAG=starting SUMMARY="Starting"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:52:35.903 5% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=5 TAG=conn SUMMARY="Connecting to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:52:36.172 10% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=10 TAG=conn_done SUMMARY="Connected to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:52:36.406 14% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=14 TAG=handshake SUMMARY="Handshaking with a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:52:37.328 95% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=95 TAG=circuit_create SUMMARY="Establishing a Tor circuit"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:52:43.095 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F7D863F1C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /summary
+Mar 28 16:52:43.096 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F7D6FEB548>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /summary
+Mar 28 16:52:43.096 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F7D76D5308>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /summary
+Mar 28 16:53:03.332 TOR server stopped. 
+Mar 28 16:53:03.356 TOR server timed out.
+Mar 28 16:53:03.469 TOR server stopped. 
+Mar 28 16:53:04.777 ------------------------------------------------------------
+Mar 28 16:53:04.777 Checking files. 
+Mar 28 16:53:04.860 No missing files
+Mar 28 16:53:04.863 ------------------------------------------------------------
+Mar 28 16:53:06.253 TOR server starting 
+Mar 28 16:53:06.254 using direct connection. 
+Mar 28 16:53:06.256 Always obtain unique IP 
+Mar 28 16:53:06.258 OFF
+Mar 28 16:53:06.262 Please wait ... 
+Mar 28 16:53:08.132 5% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=5 TAG=conn SUMMARY="Connecting to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:53:08.430 10% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=10 TAG=conn_done SUMMARY="Connected to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:53:08.717 14% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=14 TAG=handshake SUMMARY="Handshaking with a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:53:09.673 95% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=95 TAG=circuit_create SUMMARY="Establishing a Tor circuit"
+250 OK
+ - 250-status/circuit-established=0

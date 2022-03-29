@@ -1,0 +1,1156 @@
+Mar 28 16:15:03.978 This version:            1.3.0-8
+Mar 28 16:15:05.017 Last available version:  1.3.0-8
+Mar 28 16:15:05.019 No update required. 
+Mar 28 16:15:05.390 ************************************************************
+
+IPchanger last update 26.10.2021
+
+************************************************************
+
+Message of the day: project open-sourced :)
+Repo url: https://github.com/seevik2580/tor-ip-changer
+
+************************************************************
+Mar 28 16:15:06.022 Autostart OFF. 
+Mar 28 16:15:06.134 API server binded to 127.0.0.1:14999 (local) OK.
+Mar 28 16:15:40.144 ------------------------------------------------------------
+Mar 28 16:15:40.145 Checking files. 
+Mar 28 16:15:40.848 Downloading:  bridges.txt                               4 KB
+Mar 28 16:15:41.504 Downloading:  obfs4proxy.exe                         3525 KB
+Mar 28 16:15:43.978 Downloading:  libcrypto-1_1.dll                      3570 KB
+Mar 28 16:15:44.828 Downloading:  libeay32.dll                           3123 KB
+Mar 28 16:15:45.458 Downloading:  libevent-2-1-7.dll                     1117 KB
+Mar 28 16:15:45.935 Downloading:  libevent_core-2-1-7.dll                 953 KB
+Mar 28 16:15:46.446 Downloading:  libevent_extra-2-1-7.dll                667 KB
+Mar 28 16:15:46.904 Downloading:  libwinpthread-1.dll                     513 KB
+Mar 28 16:15:47.419 Downloading:  libgcc_s_sjlj-1.dll                    1070 KB
+Mar 28 16:15:47.909 Downloading:  libssl-1_1.dll                         1081 KB
+Mar 28 16:15:48.408 Downloading:  libssp-0.dll                            247 KB
+Mar 28 16:15:48.827 Downloading:  ssleay32.dll                            696 KB
+Mar 28 16:15:49.272 Downloading:  tor.exe                                4130 KB
+Mar 28 16:15:49.869 Downloading:  zlib1.dll                               122 KB
+Mar 28 16:15:50.305 Downloading:  geoip                                  3821 KB
+Mar 28 16:15:51.002 Downloading:  geoip6                                 5603 KB
+Mar 28 16:15:51.318 Missing files downloaded
+Mar 28 16:15:51.321 ------------------------------------------------------------
+Mar 28 16:15:52.856 Relays in MY: 18
+ExitNodes in MY: 3
+Mar 28 16:15:52.860 TOR server starting 
+Mar 28 16:15:52.861 using direct connection. 
+Mar 28 16:15:52.863 Always obtain unique IP 
+Mar 28 16:15:52.865 OFF
+Mar 28 16:15:52.867 Please wait ... 
+Mar 28 16:15:53.536 0% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=0 TAG=starting SUMMARY="Starting"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:15:54.498 5% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=5 TAG=conn SUMMARY="Connecting to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:15:54.760 10% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=10 TAG=conn_done SUMMARY="Connected to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:15:54.995 14% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=14 TAG=handshake SUMMARY="Handshaking with a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:15:55.396 20% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=20 TAG=onehop_create SUMMARY="Establishing an encrypted directory connection"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:15:55.537 25% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=25 TAG=requesting_status SUMMARY="Asking for networkstatus consensus"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:15:55.819 30% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=30 TAG=loading_status SUMMARY="Loading networkstatus consensus"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:15:57.628 40% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=40 TAG=loading_keys SUMMARY="Loading authority key certs"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:15:58.360 45% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=45 TAG=requesting_descriptors SUMMARY="Asking for relay descriptors"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:15:59.736 50% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=50 TAG=loading_descriptors SUMMARY="Loading relay descriptors"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:16:02.261 51% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=51 TAG=loading_descriptors SUMMARY="Loading relay descriptors"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:16:02.480 55% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=55 TAG=loading_descriptors SUMMARY="Loading relay descriptors"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:16:02.622 56% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=56 TAG=loading_descriptors SUMMARY="Loading relay descriptors"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:16:02.989 57% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=57 TAG=loading_descriptors SUMMARY="Loading relay descriptors"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:16:03.201 75% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=75 TAG=enough_dirinfo SUMMARY="Loaded enough directory info to build circuits"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:16:03.641 80% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=80 TAG=ap_conn SUMMARY="Connecting to a relay to build circuits"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:16:03.906 85% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=85 TAG=ap_conn_done SUMMARY="Connected to a relay to build circuits"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:16:04.048 89% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=89 TAG=ap_handshake SUMMARY="Finishing handshake with a relay to build circuits"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:16:04.719 95% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=95 TAG=circuit_create SUMMARY="Establishing a Tor circuit"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:16:05.641 100% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=100 TAG=done SUMMARY="Done"
+250 OK
+ - 250-status/circuit-established=1
+Mar 28 16:16:05.642 TOR server started 
+Mar 28 16:16:05.643 DNS server started 
+Mar 28 16:16:05.647 ------------------------------------------------------------
+Mar 28 16:16:05.649 Proxy list:
+Mar 28 16:16:05.652 127.0.0.1:9050
+Mar 28 16:16:05.653 ------------------------------------------------------------
+Mar 28 16:18:40.892 IP Changer started.
+Mar 28 16:18:40.893 IPchanged=0
+Mar 28 16:18:40.893 IPresolved=0
+Mar 28 16:18:40.893 IPchangeFailed=0
+Mar 28 16:18:40.893 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:18:40.893 AppRunning=218.3059935 sec
+Mar 28 16:18:40.895 -------------------------CHANGING-IP------------------------
+Mar 28 16:18:40.985 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:18:41.503 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504E88408>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /
+Mar 28 16:18:45.266 127.0.0.1:9050 IP 117.53.155.129 25ms 
+Mar 28 16:18:50.903 IPchanged=1
+Mar 28 16:18:50.904 IPresolved=1
+Mar 28 16:18:50.904 IPchangeFailed=0
+Mar 28 16:18:50.904 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:18:50.904 AppRunning=228.3161524 sec
+Mar 28 16:18:50.920 -------------------------CHANGING-IP------------------------
+Mar 28 16:18:50.984 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:18:53.052 127.0.0.1:9050 IP 103.228.53.155 15ms 
+Mar 28 16:19:00.918 IPchanged=2
+Mar 28 16:19:00.918 IPresolved=2
+Mar 28 16:19:00.918 IPchangeFailed=0
+Mar 28 16:19:00.918 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:19:00.918 AppRunning=238.3309099 sec
+Mar 28 16:19:00.950 -------------------------CHANGING-IP------------------------
+Mar 28 16:19:01.015 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:19:04.973 127.0.0.1:9050 IP 45.121.147.218 22ms 
+Mar 28 16:19:10.935 IPchanged=3
+Mar 28 16:19:10.935 IPresolved=3
+Mar 28 16:19:10.935 IPchangeFailed=0
+Mar 28 16:19:10.935 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:19:10.935 AppRunning=248.3475828 sec
+Mar 28 16:19:10.985 -------------------------CHANGING-IP------------------------
+Mar 28 16:19:11.093 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:19:14.861 127.0.0.1:9050 IP 103.228.53.155 14ms 
+Mar 28 16:19:20.940 IPchanged=4
+Mar 28 16:19:20.940 IPresolved=4
+Mar 28 16:19:20.940 IPchangeFailed=0
+Mar 28 16:19:20.940 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:19:20.940 AppRunning=258.3534512 sec
+Mar 28 16:19:21.004 -------------------------CHANGING-IP------------------------
+Mar 28 16:19:21.079 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:19:24.894 127.0.0.1:9050 IP 117.53.155.129 26ms 
+Mar 28 16:19:30.947 IPchanged=5
+Mar 28 16:19:30.947 IPresolved=5
+Mar 28 16:19:30.947 IPchangeFailed=0
+Mar 28 16:19:30.947 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:19:30.947 AppRunning=268.3594696 sec
+Mar 28 16:19:31.026 -------------------------CHANGING-IP------------------------
+Mar 28 16:19:31.132 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:19:35.486 127.0.0.1:9050 IP 117.53.155.129 22ms 
+Mar 28 16:19:40.959 IPchanged=6
+Mar 28 16:19:40.959 IPresolved=6
+Mar 28 16:19:40.960 IPchangeFailed=0
+Mar 28 16:19:40.960 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:19:40.960 AppRunning=278.3723948 sec
+Mar 28 16:19:41.054 -------------------------CHANGING-IP------------------------
+Mar 28 16:19:41.088 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:19:45.836 127.0.0.1:9050 IP 117.53.155.129 25ms 
+Mar 28 16:19:50.968 IPchanged=7
+Mar 28 16:19:50.968 IPresolved=7
+Mar 28 16:19:50.968 IPchangeFailed=0
+Mar 28 16:19:50.968 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:19:50.968 AppRunning=288.3805327 sec
+Mar 28 16:19:51.079 -------------------------CHANGING-IP------------------------
+Mar 28 16:19:51.158 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:19:54.613 127.0.0.1:9050 IP 117.53.155.129 20ms 
+Mar 28 16:20:00.981 IPchanged=8
+Mar 28 16:20:00.981 IPresolved=8
+Mar 28 16:20:00.981 IPchangeFailed=0
+Mar 28 16:20:00.981 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:20:00.981 AppRunning=298.3942477 sec
+Mar 28 16:20:01.108 -------------------------CHANGING-IP------------------------
+Mar 28 16:20:01.201 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:20:05.053 127.0.0.1:9050 IP 103.228.53.155 13ms 
+Mar 28 16:20:10.986 IPchanged=9
+Mar 28 16:20:10.986 IPresolved=9
+Mar 28 16:20:10.986 IPchangeFailed=0
+Mar 28 16:20:10.986 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:20:10.986 AppRunning=308.398892 sec
+Mar 28 16:20:11.129 -------------------------CHANGING-IP------------------------
+Mar 28 16:20:11.223 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:20:15.068 127.0.0.1:9050 IP 103.228.53.155 16ms 
+Mar 28 16:20:20.997 IPchanged=10
+Mar 28 16:20:20.997 IPresolved=10
+Mar 28 16:20:20.997 IPchangeFailed=0
+Mar 28 16:20:20.997 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:20:20.997 AppRunning=318.4100636 sec
+Mar 28 16:20:21.155 -------------------------CHANGING-IP------------------------
+Mar 28 16:20:21.219 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:20:22.831 127.0.0.1:9050 IP 45.121.147.218 16ms 
+Mar 28 16:20:31.012 IPchanged=11
+Mar 28 16:20:31.012 IPresolved=11
+Mar 28 16:20:31.012 IPchangeFailed=0
+Mar 28 16:20:31.012 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:20:31.012 AppRunning=328.4246256 sec
+Mar 28 16:20:31.186 -------------------------CHANGING-IP------------------------
+Mar 28 16:20:31.248 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:20:32.041 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504556088>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /
+Mar 28 16:20:35.891 127.0.0.1:9050 IP 103.228.53.155 14ms 
+Mar 28 16:20:41.026 IPchanged=12
+Mar 28 16:20:41.026 IPresolved=12
+Mar 28 16:20:41.026 IPchangeFailed=0
+Mar 28 16:20:41.026 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:20:41.026 AppRunning=338.4385812 sec
+Mar 28 16:20:41.216 -------------------------CHANGING-IP------------------------
+Mar 28 16:20:41.293 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:20:44.608 127.0.0.1:9050 IP 103.228.53.155 14ms 
+Mar 28 16:20:51.037 IPchanged=13
+Mar 28 16:20:51.037 IPresolved=13
+Mar 28 16:20:51.037 IPchangeFailed=0
+Mar 28 16:20:51.038 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:20:51.038 AppRunning=348.4507026 sec
+Mar 28 16:20:51.245 -------------------------CHANGING-IP------------------------
+Mar 28 16:20:51.336 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:20:55.391 127.0.0.1:9050 IP 117.53.155.129 27ms 
+Mar 28 16:20:59.292 IP Changer stopped.
+Mar 28 16:22:15.835 TOR server stopped. 
+Mar 28 16:22:17.662 ------------------------------------------------------------
+Mar 28 16:22:17.663 Checking files. 
+Mar 28 16:22:17.969 No missing files
+Mar 28 16:22:17.972 ------------------------------------------------------------
+Mar 28 16:22:18.887 TOR server starting 
+Mar 28 16:22:18.890 using direct connection. 
+Mar 28 16:22:18.891 Always obtain unique IP 
+Mar 28 16:22:18.892 OFF
+Mar 28 16:22:18.893 Please wait ... 
+Mar 28 16:22:20.881 5% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=5 TAG=conn SUMMARY="Connecting to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:22:21.306 10% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=10 TAG=conn_done SUMMARY="Connected to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:22:21.590 14% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=14 TAG=handshake SUMMARY="Handshaking with a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:22:22.104 95% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=95 TAG=circuit_create SUMMARY="Establishing a Tor circuit"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:22:23.253 TOR server started 
+Mar 28 16:22:23.256 DNS server started 
+Mar 28 16:22:23.259 ------------------------------------------------------------
+Mar 28 16:22:23.259 Proxy list:
+Mar 28 16:22:23.262 127.0.0.1:9050
+Mar 28 16:22:23.264 ------------------------------------------------------------
+Mar 28 16:23:10.616 ************************************************************
+Changelog: v1.3.0-8
+************************************************************
+Changed:
+    - ssl validation to avoid ssl errors
+************************************************************
+Changelog: v1.3.0-7
+************************************************************
+Added:
+    + option to always obtain unique ip for single proxy
+            Options > Settings
+    + option to always obtain unique ip for multi proxy
+            Options > Settings  (with ipchanger -m)
+    + API uniqueip port N (N=port number)
+      set On/Off to obtain unique ip for proxy
+    + API blacklist N (N=seconds)
+      set blacklist ip for N seconds
+    + blacklist.db inside Data/tordata/
+    + Options > Settings > Blacklist GUI for specific proxy
+    + torrc inside Data/tordata/
+    + blacklist time inside settings.ini
+    + option to set blacklist only for session
+    + number of all exitNodes in status bar
+    + number of exitNodes for specific country in console
+    + duplicated message check and postpone to prevent spam
+      to console
+    + if single proxy deplete all ips it will postpone next
+      change until new set of ips are available
+    + if multi proxy deplete all ip it will postpone next
+      change until new set of ips are available
+
+Changed:
+    + resolving ip with retry attempts if failed
+    + Options > Settings GUI
+    + Help > About GUI
+    + settings.ini
+    + python script multiplatform (windows and linux)
+    + error reporting in console and logfiles
+
+************************************************************
+Mar 28 16:26:23.469 IP Changer started.
+Mar 28 16:26:23.470 IPchanged=0
+Mar 28 16:26:23.470 IPresolved=0
+Mar 28 16:26:23.470 IPchangeFailed=0
+Mar 28 16:26:23.470 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:26:23.471 AppRunning=680.8831499 sec
+Mar 28 16:26:23.476 -------------------------CHANGING-IP------------------------
+Mar 28 16:26:23.568 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:26:27.602 127.0.0.1:9050 IP 45.121.147.218 15ms 
+Mar 28 16:26:33.475 IPchanged=1
+Mar 28 16:26:33.475 IPresolved=1
+Mar 28 16:26:33.475 IPchangeFailed=0
+Mar 28 16:26:33.475 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:26:33.475 AppRunning=690.8882318999999 sec
+Mar 28 16:26:33.493 -------------------------CHANGING-IP------------------------
+Mar 28 16:26:33.571 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:26:43.477 IPchanged=2
+Mar 28 16:26:43.483 IPresolved=1
+Mar 28 16:26:43.483 IPchangeFailed=0
+Mar 28 16:26:43.483 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:26:43.483 AppRunning=700.8955943999999 sec
+Mar 28 16:26:43.537 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))': /
+Mar 28 16:26:43.590 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:26:47.339 127.0.0.1:9050 IP 117.53.155.129 21ms 
+Mar 28 16:26:53.485 IPchanged=3
+Mar 28 16:26:53.485 IPresolved=2
+Mar 28 16:26:53.485 IPchangeFailed=0
+Mar 28 16:26:53.485 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:26:53.485 AppRunning=710.8975462 sec
+Mar 28 16:26:53.549 -------------------------CHANGING-IP------------------------
+Mar 28 16:26:53.647 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:26:57.071 IP Changer stopped.
+Mar 28 16:26:58.187 127.0.0.1:9050 IP 117.53.155.129 20ms 
+Mar 28 16:27:05.828 IP Changer started.
+Mar 28 16:27:05.829 IPchanged=0
+Mar 28 16:27:05.829 IPresolved=1
+Mar 28 16:27:05.829 IPchangeFailed=0
+Mar 28 16:27:05.829 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:27:05.829 AppRunning=723.2416717 sec
+Mar 28 16:27:05.830 -------------------------CHANGING-IP------------------------
+Mar 28 16:27:05.906 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:27:09.863 127.0.0.1:9050 IP 117.53.155.129 20ms 
+Mar 28 16:27:15.838 IPchanged=1
+Mar 28 16:27:15.838 IPresolved=2
+Mar 28 16:27:15.838 IPchangeFailed=0
+Mar 28 16:27:15.838 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:27:15.838 AppRunning=733.2505122 sec
+Mar 28 16:27:25.839 IPchanged=1
+Mar 28 16:27:25.839 IPresolved=2
+Mar 28 16:27:25.839 IPchangeFailed=0
+Mar 28 16:27:25.839 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:27:25.839 AppRunning=743.2517987 sec
+Mar 28 16:27:35.844 IPchanged=1
+Mar 28 16:27:35.844 IPresolved=2
+Mar 28 16:27:35.844 IPchangeFailed=0
+Mar 28 16:27:35.844 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:27:35.844 AppRunning=753.256674 sec
+Mar 28 16:27:35.860 -------------------------CHANGING-IP------------------------
+Mar 28 16:27:35.955 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:27:40.050 127.0.0.1:9050 IP 103.228.53.155 15ms 
+Mar 28 16:27:45.854 IPchanged=2
+Mar 28 16:27:45.855 IPresolved=3
+Mar 28 16:27:45.855 IPchangeFailed=0
+Mar 28 16:27:45.855 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:27:45.855 AppRunning=763.2673776 sec
+Mar 28 16:27:55.869 IPchanged=2
+Mar 28 16:27:55.869 IPresolved=3
+Mar 28 16:27:55.869 IPchangeFailed=0
+Mar 28 16:27:55.869 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:27:55.869 AppRunning=773.2818503999999 sec
+Mar 28 16:28:05.881 IPchanged=2
+Mar 28 16:28:05.881 IPresolved=3
+Mar 28 16:28:05.881 IPchangeFailed=0
+Mar 28 16:28:05.881 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:28:05.881 AppRunning=783.2935884999999 sec
+Mar 28 16:28:05.881 -------------------------CHANGING-IP------------------------
+Mar 28 16:28:05.904 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:28:10.422 127.0.0.1:9050 IP 117.53.155.129 22ms 
+Mar 28 16:28:15.891 IPchanged=3
+Mar 28 16:28:15.891 IPresolved=4
+Mar 28 16:28:15.891 IPchangeFailed=0
+Mar 28 16:28:15.891 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:28:15.891 AppRunning=793.3037668 sec
+Mar 28 16:28:25.893 IPchanged=3
+Mar 28 16:28:25.893 IPresolved=4
+Mar 28 16:28:25.893 IPchangeFailed=0
+Mar 28 16:28:25.893 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:28:25.894 AppRunning=803.3060488 sec
+Mar 28 16:28:35.902 IPchanged=4
+Mar 28 16:28:35.902 IPresolved=4
+Mar 28 16:28:35.903 IPchangeFailed=0
+Mar 28 16:28:35.903 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:28:35.903 AppRunning=813.3152229 sec
+Mar 28 16:28:35.906 -------------------------CHANGING-IP------------------------
+Mar 28 16:28:35.971 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:28:40.461 127.0.0.1:9050 IP 117.53.155.129 21ms 
+Mar 28 16:28:45.911 IPchanged=4
+Mar 28 16:28:45.911 IPresolved=5
+Mar 28 16:28:45.912 IPchangeFailed=0
+Mar 28 16:28:45.912 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:28:45.912 AppRunning=823.324628 sec
+Mar 28 16:28:55.924 IPchanged=4
+Mar 28 16:28:55.924 IPresolved=5
+Mar 28 16:28:55.924 IPchangeFailed=0
+Mar 28 16:28:55.924 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:28:55.924 AppRunning=833.3366737 sec
+Mar 28 16:28:58.236 -------------------------CHANGING-IP------------------------
+Mar 28 16:28:58.310 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:29:02.647 127.0.0.1:9050 IP 45.121.147.218 17ms 
+Mar 28 16:29:05.931 IPchanged=5
+Mar 28 16:29:05.931 IPresolved=6
+Mar 28 16:29:05.931 IPchangeFailed=0
+Mar 28 16:29:05.931 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:29:05.931 AppRunning=843.34413 sec
+Mar 28 16:29:05.933 -------------------------CHANGING-IP------------------------
+Mar 28 16:29:06.013 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:29:07.154 IP Changer stopped.
+Mar 28 16:29:09.240 TOR server stopped. 
+Mar 28 16:29:09.406 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /
+Mar 28 16:29:11.257 ------------------------------------------------------------
+Mar 28 16:29:11.259 Checking files. 
+Mar 28 16:29:11.444 SOCKSHTTPConnectionPool(host='checkip.amazonaws.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000001F50453F108>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Mar 28 16:29:11.614 No missing files
+Mar 28 16:29:11.641 ------------------------------------------------------------
+Mar 28 16:29:12.630 TOR server starting 
+Mar 28 16:29:12.633 using direct connection. 
+Mar 28 16:29:12.635 Always obtain unique IP 
+Mar 28 16:29:12.636 OFF
+Mar 28 16:29:12.638 Please wait ... 
+Mar 28 16:29:14.546 5% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=5 TAG=conn SUMMARY="Connecting to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:29:14.918 10% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=10 TAG=conn_done SUMMARY="Connected to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:29:15.186 14% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=14 TAG=handshake SUMMARY="Handshaking with a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:29:16.124 95% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=95 TAG=circuit_create SUMMARY="Establishing a Tor circuit"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:29:17.584 100% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=100 TAG=done SUMMARY="Done"
+250 OK
+ - 250-status/circuit-established=1
+Mar 28 16:29:17.586 TOR server started 
+Mar 28 16:29:17.587 DNS server started 
+Mar 28 16:29:17.591 ------------------------------------------------------------
+Mar 28 16:29:17.592 Proxy list:
+Mar 28 16:29:17.594 127.0.0.1:9050
+Mar 28 16:29:17.595 ------------------------------------------------------------
+Mar 28 16:29:17.597 IP Changer started.
+Mar 28 16:29:17.600 IPchanged=0
+Mar 28 16:29:17.600 IPresolved=0
+Mar 28 16:29:17.601 IPchangeFailed=0
+Mar 28 16:29:17.601 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:29:17.601 AppRunning=855.0138429 sec
+Mar 28 16:29:17.603 -------------------------CHANGING-IP------------------------
+Mar 28 16:29:17.662 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:29:22.281 127.0.0.1:9050 IP 117.53.155.129 20ms 
+Mar 28 16:29:27.606 IPchanged=1
+Mar 28 16:29:27.606 IPresolved=1
+Mar 28 16:29:27.606 IPchangeFailed=0
+Mar 28 16:29:27.606 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:29:27.606 AppRunning=865.0186484 sec
+Mar 28 16:29:37.620 IPchanged=1
+Mar 28 16:29:37.620 IPresolved=1
+Mar 28 16:29:37.620 IPchangeFailed=0
+Mar 28 16:29:37.620 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:29:37.621 AppRunning=875.0334021 sec
+Mar 28 16:29:43.675 IP Changer stopped.
+Mar 28 16:29:57.680 TOR server stopped. 
+Mar 28 16:29:59.541 ------------------------------------------------------------
+Mar 28 16:29:59.542 Checking files. 
+Mar 28 16:29:59.621 No missing files
+Mar 28 16:29:59.624 ------------------------------------------------------------
+Mar 28 16:30:00.521 TOR server starting 
+Mar 28 16:30:00.524 using direct connection. 
+Mar 28 16:30:00.525 Always obtain unique IP 
+Mar 28 16:30:00.527 OFF
+Mar 28 16:30:00.529 Please wait ... 
+Mar 28 16:30:02.449 0% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=0 TAG=starting SUMMARY="Starting"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:30:03.468 5% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=5 TAG=conn SUMMARY="Connecting to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:30:03.849 10% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=10 TAG=conn_done SUMMARY="Connected to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:30:04.129 14% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=14 TAG=handshake SUMMARY="Handshaking with a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:30:05.189 95% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=95 TAG=circuit_create SUMMARY="Establishing a Tor circuit"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:30:07.189 100% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=100 TAG=done SUMMARY="Done"
+250 OK
+ - 250-status/circuit-established=1
+Mar 28 16:30:07.190 TOR server started 
+Mar 28 16:30:07.192 DNS server started 
+Mar 28 16:30:07.197 ------------------------------------------------------------
+Mar 28 16:30:07.197 Proxy list:
+Mar 28 16:30:07.200 127.0.0.1:9050
+Mar 28 16:30:07.201 ------------------------------------------------------------
+Mar 28 16:30:58.609 -------------------------CHANGING-IP------------------------
+Mar 28 16:30:58.662 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:31:02.045 127.0.0.1:9050 IP 117.53.155.129 25ms 
+Mar 28 16:34:10.497 IP Changer started.
+Mar 28 16:34:10.498 IPchanged=0
+Mar 28 16:34:10.498 IPresolved=1
+Mar 28 16:34:10.498 IPchangeFailed=0
+Mar 28 16:34:10.498 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:34:10.498 AppRunning=1147.9113815 sec
+Mar 28 16:34:10.501 -------------------------CHANGING-IP------------------------
+Mar 28 16:34:10.573 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:34:13.959 127.0.0.1:9050 IP 103.228.53.155 17ms 
+Mar 28 16:34:20.512 IPchanged=1
+Mar 28 16:34:20.512 IPresolved=2
+Mar 28 16:34:20.512 IPchangeFailed=0
+Mar 28 16:34:20.512 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:34:20.512 AppRunning=1157.9243876 sec
+Mar 28 16:34:20.530 -------------------------CHANGING-IP------------------------
+Mar 28 16:34:20.624 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:34:24.636 127.0.0.1:9050 IP 103.228.53.155 17ms 
+Mar 28 16:34:30.526 IPchanged=2
+Mar 28 16:34:30.526 IPresolved=3
+Mar 28 16:34:30.526 IPchangeFailed=0
+Mar 28 16:34:30.526 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:34:30.526 AppRunning=1167.9393746 sec
+Mar 28 16:34:30.559 -------------------------CHANGING-IP------------------------
+Mar 28 16:34:30.653 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:34:31.326 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000001F505DFD408>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /
+Mar 28 16:34:36.492 127.0.0.1:9050 IP 45.121.147.218 14ms 
+Mar 28 16:34:40.533 IPchanged=3
+Mar 28 16:34:40.533 IPresolved=4
+Mar 28 16:34:40.533 IPchangeFailed=0
+Mar 28 16:34:40.533 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:34:40.533 AppRunning=1177.9463466 sec
+Mar 28 16:34:40.580 -------------------------CHANGING-IP------------------------
+Mar 28 16:34:40.667 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:34:43.688 127.0.0.1:9050 IP 45.121.147.218 14ms 
+Mar 28 16:34:50.537 IPchanged=4
+Mar 28 16:34:50.537 IPresolved=5
+Mar 28 16:34:50.537 IPchangeFailed=0
+Mar 28 16:34:50.537 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:34:50.537 AppRunning=1187.9500466 sec
+Mar 28 16:34:50.601 -------------------------CHANGING-IP------------------------
+Mar 28 16:34:50.679 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:34:51.266 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504E97D08>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /
+Mar 28 16:34:54.703 127.0.0.1:9050 IP 117.53.155.129 21ms 
+Mar 28 16:35:00.548 IPchanged=5
+Mar 28 16:35:00.548 IPresolved=6
+Mar 28 16:35:00.548 IPchangeFailed=0
+Mar 28 16:35:00.548 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:35:00.548 AppRunning=1197.9603414 sec
+Mar 28 16:35:00.625 -------------------------CHANGING-IP------------------------
+Mar 28 16:35:00.766 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:35:03.796 127.0.0.1:9050 IP 45.121.147.218 14ms 
+Mar 28 16:35:10.563 IPchanged=6
+Mar 28 16:35:10.564 IPresolved=7
+Mar 28 16:35:10.564 IPchangeFailed=0
+Mar 28 16:35:10.564 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:35:10.564 AppRunning=1207.9763136 sec
+Mar 28 16:35:10.656 -------------------------CHANGING-IP------------------------
+Mar 28 16:35:10.749 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:35:14.412 127.0.0.1:9050 IP 117.53.155.129 21ms 
+Mar 28 16:35:16.675 IP Changer stopped.
+Mar 28 16:35:16.683 TOR server stopped. 
+Mar 28 16:35:18.699 ------------------------------------------------------------
+Mar 28 16:35:18.700 Checking files. 
+Mar 28 16:35:19.062 No missing files
+Mar 28 16:35:19.066 ------------------------------------------------------------
+Mar 28 16:35:20.026 Relays in SG: 47
+ExitNodes in SG: 3
+Mar 28 16:35:20.027 TOR server starting 
+Mar 28 16:35:20.029 using direct connection. 
+Mar 28 16:35:20.030 Always obtain unique IP 
+Mar 28 16:35:20.031 OFF
+Mar 28 16:35:20.033 Please wait ... 
+Mar 28 16:35:21.952 5% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=5 TAG=conn SUMMARY="Connecting to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:35:22.328 10% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=10 TAG=conn_done SUMMARY="Connected to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:35:22.563 14% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=14 TAG=handshake SUMMARY="Handshaking with a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:35:23.219 95% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=95 TAG=circuit_create SUMMARY="Establishing a Tor circuit"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:35:24.376 100% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=100 TAG=done SUMMARY="Done"
+250 OK
+ - 250-status/circuit-established=1
+Mar 28 16:35:24.376 TOR server started 
+Mar 28 16:35:24.377 DNS server started 
+Mar 28 16:35:24.378 ------------------------------------------------------------
+Mar 28 16:35:24.379 Proxy list:
+Mar 28 16:35:24.381 127.0.0.1:9050
+Mar 28 16:35:24.381 ------------------------------------------------------------
+Mar 28 16:35:34.528 IP Changer started.
+Mar 28 16:35:34.528 IPchanged=0
+Mar 28 16:35:34.528 IPresolved=0
+Mar 28 16:35:34.528 IPchangeFailed=0
+Mar 28 16:35:34.528 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:35:34.528 AppRunning=1231.9415317 sec
+Mar 28 16:35:34.530 -------------------------CHANGING-IP------------------------
+Mar 28 16:35:34.562 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:35:38.279 127.0.0.1:9050 IP 27.122.59.100 17ms 
+Mar 28 16:35:44.536 IPchanged=1
+Mar 28 16:35:44.536 IPresolved=1
+Mar 28 16:35:44.536 IPchangeFailed=0
+Mar 28 16:35:44.536 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:35:44.536 AppRunning=1241.948956 sec
+Mar 28 16:35:44.554 -------------------------CHANGING-IP------------------------
+Mar 28 16:35:44.648 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:35:48.083 127.0.0.1:9050 IP 146.70.29.254 23ms 
+Mar 28 16:35:54.546 IPchanged=2
+Mar 28 16:35:54.546 IPresolved=2
+Mar 28 16:35:54.546 IPchangeFailed=0
+Mar 28 16:35:54.546 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:35:54.546 AppRunning=1251.9586164 sec
+Mar 28 16:35:54.577 -------------------------CHANGING-IP------------------------
+Mar 28 16:35:54.669 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:35:58.055 127.0.0.1:9050 IP 23.106.122.112 44ms 
+Mar 28 16:35:58.706 ------------------------------------------------------------
+|127.0.0.1:9050 |sg 	Depleted! postponed for 3590 seconds
+Mar 28 16:35:58.706 |127.0.0.1:9050 |sg 	Last available IP = 23.106.122.112
+------------------------------------------------------------
+Mar 28 16:37:58.405 IP Changer stopped.
+Mar 28 16:37:59.429 IP Changer started.
+Mar 28 16:37:59.429 IPchanged=0
+Mar 28 16:37:59.430 IPresolved=0
+Mar 28 16:37:59.430 IPchangeFailed=0
+Mar 28 16:37:59.430 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:37:59.430 AppRunning=1376.8426593 sec
+Mar 28 16:37:59.434 -------------------------CHANGING-IP------------------------
+Mar 28 16:37:59.560 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:38:03.128 127.0.0.1:9050 IP 23.106.122.112 83ms 
+Mar 28 16:38:09.444 IPchanged=1
+Mar 28 16:38:09.444 IPresolved=1
+Mar 28 16:38:09.444 IPchangeFailed=0
+Mar 28 16:38:09.444 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:38:09.444 AppRunning=1386.8565872 sec
+Mar 28 16:38:09.461 -------------------------CHANGING-IP------------------------
+Mar 28 16:38:09.993 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:38:18.930 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504E818C8>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)')': /
+Mar 28 16:38:19.459 IPchanged=2
+Mar 28 16:38:19.459 IPresolved=1
+Mar 28 16:38:19.459 IPchangeFailed=0
+Mar 28 16:38:19.459 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:38:19.459 AppRunning=1396.8720828 sec
+Mar 28 16:38:20.084 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:38:29.028 SOCKSHTTPConnectionPool(host='checkip.amazonaws.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504E81C48>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)'))
+Mar 28 16:38:29.028 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F505DFDBC8>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)')': /
+Mar 28 16:38:29.035 ------------------------------------------------------------
+|127.0.0.1:9050 |my 	Depleted! postponed for 0 seconds
+Mar 28 16:38:29.059 IPchanged=0
+Mar 28 16:38:29.059 IPresolved=0
+Mar 28 16:38:29.059 IPchangeFailed=0
+Mar 28 16:38:29.059 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:38:29.060 AppRunning=1406.4721087 sec
+Mar 28 16:38:29.062 -------------------------CHANGING-IP------------------------
+Mar 28 16:38:29.259 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:38:38.205 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504E88A48>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)')': /
+Mar 28 16:38:38.206 SOCKSHTTPConnectionPool(host='checkip.amazonaws.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504E82288>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)'))
+Mar 28 16:38:38.212 ------------------------------------------------------------
+|127.0.0.1:9050 |my 	Depleted! postponed for 0 seconds
+Mar 28 16:38:38.236 IPchanged=0
+Mar 28 16:38:38.237 IPresolved=0
+Mar 28 16:38:38.237 IPchangeFailed=0
+Mar 28 16:38:38.237 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:38:38.237 AppRunning=1415.6493934 sec
+Mar 28 16:38:38.240 -------------------------CHANGING-IP------------------------
+Mar 28 16:38:39.234 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:38:48.200 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504537388>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)')': /
+Mar 28 16:38:48.200 SOCKSHTTPConnectionPool(host='checkip.amazonaws.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F509B25648>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)'))
+Mar 28 16:38:48.207 ------------------------------------------------------------
+|127.0.0.1:9050 |my 	Depleted! postponed for 0 seconds
+Mar 28 16:38:48.233 IPchanged=0
+Mar 28 16:38:48.233 IPresolved=0
+Mar 28 16:38:48.233 IPchangeFailed=0
+Mar 28 16:38:48.233 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:38:48.233 AppRunning=1425.6459392 sec
+Mar 28 16:38:48.236 -------------------------CHANGING-IP------------------------
+Mar 28 16:38:49.886 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:38:58.241 IPchanged=1
+Mar 28 16:38:58.241 IPresolved=0
+Mar 28 16:38:58.241 IPchangeFailed=0
+Mar 28 16:38:58.241 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:38:58.241 AppRunning=1435.6540743 sec
+Mar 28 16:38:58.431 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:38:58.850 SOCKSHTTPConnectionPool(host='checkip.amazonaws.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504E82388>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)'))
+Mar 28 16:38:58.850 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504E81688>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)')': /
+Mar 28 16:38:58.858 ------------------------------------------------------------
+|127.0.0.1:9050 |my 	Depleted! postponed for 0 seconds
+Mar 28 16:38:58.882 IPchanged=0
+Mar 28 16:38:58.882 IPresolved=0
+Mar 28 16:38:58.882 IPchangeFailed=0
+Mar 28 16:38:58.883 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:38:58.883 AppRunning=1436.2953722 sec
+Mar 28 16:38:58.886 -------------------------CHANGING-IP------------------------
+Mar 28 16:39:00.944 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:39:07.300 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504E813C8>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)')': /
+Mar 28 16:39:08.888 IPchanged=0
+Mar 28 16:39:08.888 IPresolved=0
+Mar 28 16:39:08.888 IPchangeFailed=0
+Mar 28 16:39:08.888 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:39:08.888 AppRunning=1446.3009245 sec
+Mar 28 16:39:09.028 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:39:09.511 SOCKSHTTPConnectionPool(host='checkip.amazonaws.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F509BBA348>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)'))
+Mar 28 16:39:09.520 ------------------------------------------------------------
+|127.0.0.1:9050 |my 	Depleted! postponed for 0 seconds
+Mar 28 16:39:09.542 IPchanged=0
+Mar 28 16:39:09.542 IPresolved=0
+Mar 28 16:39:09.542 IPchangeFailed=0
+Mar 28 16:39:09.542 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:39:09.542 AppRunning=1446.9551009 sec
+Mar 28 16:39:09.543 -------------------------CHANGING-IP------------------------
+Mar 28 16:39:09.589 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F50454E748>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)')': /
+Mar 28 16:39:11.916 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:39:16.314 IP Changer stopped.
+Mar 28 16:39:17.386 IP Changer started.
+Mar 28 16:39:17.387 IPchanged=0
+Mar 28 16:39:17.387 IPresolved=0
+Mar 28 16:39:17.387 IPchangeFailed=0
+Mar 28 16:39:17.387 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:39:17.387 AppRunning=1454.800418 sec
+Mar 28 16:39:17.391 -------------------------CHANGING-IP------------------------
+Mar 28 16:39:17.492 SOCKSHTTPConnectionPool(host='checkip.amazonaws.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504E81248>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)'))
+Mar 28 16:39:17.498 ------------------------------------------------------------
+|127.0.0.1:9050 |my 	Depleted! postponed for 0 seconds
+Mar 28 16:39:17.522 IPchanged=0
+Mar 28 16:39:17.522 IPresolved=0
+Mar 28 16:39:17.523 IPchangeFailed=0
+Mar 28 16:39:17.523 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:39:17.523 AppRunning=1454.9351239 sec
+Mar 28 16:39:17.525 -------------------------CHANGING-IP------------------------
+Mar 28 16:39:17.639 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:39:17.695 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:39:17.940 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F505D00C88>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)')': /
+Mar 28 16:39:20.307 SOCKSHTTPConnectionPool(host='checkip.amazonaws.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F505DD7088>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)'))
+Mar 28 16:39:20.307 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504544748>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)')': /
+Mar 28 16:39:26.433 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F505C12F08>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)')': /
+Mar 28 16:39:26.636 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504E66308>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)')': /
+Mar 28 16:39:26.965 SOCKSHTTPConnectionPool(host='checkip.amazonaws.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F505DA46C8>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)'))
+Mar 28 16:39:27.531 IPchanged=0
+Mar 28 16:39:27.532 IPresolved=0
+Mar 28 16:39:27.532 IPchangeFailed=0
+Mar 28 16:39:27.532 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:39:27.532 AppRunning=1464.944207 sec
+Mar 28 16:39:27.629 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:39:30.504 SOCKSHTTPConnectionPool(host='checkip.amazonaws.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F505D00E88>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)'))
+Mar 28 16:39:30.511 ------------------------------------------------------------
+|127.0.0.1:9050 |my 	Depleted! postponed for 0 seconds
+Mar 28 16:39:30.537 IPchanged=0
+Mar 28 16:39:30.537 IPresolved=0
+Mar 28 16:39:30.537 IPchangeFailed=0
+Mar 28 16:39:30.537 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:39:30.537 AppRunning=1467.9497241 sec
+Mar 28 16:39:30.539 -------------------------CHANGING-IP------------------------
+Mar 28 16:39:31.585 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:39:35.667 SOCKSHTTPConnectionPool(host='checkip.amazonaws.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504E66288>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)'))
+Mar 28 16:39:35.667 SOCKSHTTPConnectionPool(host='checkip.amazonaws.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F505B4DBC8>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)'))
+Mar 28 16:39:35.675 ------------------------------------------------------------
+|127.0.0.1:9050 |my 	Depleted! postponed for 0 seconds
+Mar 28 16:39:35.677 ------------------------------------------------------------
+|127.0.0.1:9050 |my 	Depleted! postponed for 0 seconds
+Mar 28 16:39:35.685 127.0.0.1:9050 failed - status: Changing OK but unable to connect
+Mar 28 16:39:35.700 IPchanged=0
+Mar 28 16:39:35.700 IPresolved=0
+Mar 28 16:39:35.700 IPchangeFailed=0
+Mar 28 16:39:35.700 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:39:35.700 AppRunning=1473.1131011 sec
+Mar 28 16:39:35.702 -------------------------CHANGING-IP------------------------
+Mar 28 16:39:36.585 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504E82E48>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)')': /
+Mar 28 16:39:36.910 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:39:40.192 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504545248>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)')': /
+Mar 28 16:39:42.768 IP Changer stopped.
+Mar 28 16:39:45.854 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F509B3D108>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)')': /
+Mar 28 16:39:45.884 SOCKSHTTPConnectionPool(host='checkip.amazonaws.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F505DFD848>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)'))
+Mar 28 16:39:50.922 SOCKSHTTPConnectionPool(host='checkip.amazonaws.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F509B41D88>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)'))
+Mar 28 16:39:56.172 SOCKSHTTPConnectionPool(host='checkip.amazonaws.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x000001F509B3AA88>, 'Connection to checkip.amazonaws.com timed out. (connect timeout=9)'))
+Mar 28 16:40:00.537 IP Changer started.
+Mar 28 16:40:00.538 IPchanged=0
+Mar 28 16:40:00.539 IPresolved=0
+Mar 28 16:40:00.539 IPchangeFailed=0
+Mar 28 16:40:00.539 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:40:00.539 AppRunning=1497.9515658999999 sec
+Mar 28 16:40:00.540 -------------------------CHANGING-IP------------------------
+Mar 28 16:40:02.042 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:40:05.686 127.0.0.1:9050 IP 27.122.59.100 17ms 
+Mar 28 16:40:10.541 IPchanged=1
+Mar 28 16:40:10.541 IPresolved=1
+Mar 28 16:40:10.541 IPchangeFailed=0
+Mar 28 16:40:10.541 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:40:10.541 AppRunning=1507.9541847 sec
+Mar 28 16:40:10.559 -------------------------CHANGING-IP------------------------
+Mar 28 16:40:10.623 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:40:13.401 127.0.0.1:9050 IP 146.70.29.254 24ms 
+Mar 28 16:40:20.556 IPchanged=2
+Mar 28 16:40:20.556 IPresolved=2
+Mar 28 16:40:20.556 IPchangeFailed=0
+Mar 28 16:40:20.556 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:40:20.556 AppRunning=1517.9692357 sec
+Mar 28 16:40:20.589 -------------------------CHANGING-IP------------------------
+Mar 28 16:40:20.648 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:40:23.790 127.0.0.1:9050 IP 27.122.59.100 18ms 
+Mar 28 16:40:30.565 IPchanged=3
+Mar 28 16:40:30.565 IPresolved=3
+Mar 28 16:40:30.565 IPchangeFailed=0
+Mar 28 16:40:30.565 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:40:30.565 AppRunning=1527.9780347 sec
+Mar 28 16:40:30.613 -------------------------CHANGING-IP------------------------
+Mar 28 16:40:30.645 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:40:33.769 127.0.0.1:9050 IP 27.122.59.100 18ms 
+Mar 28 16:40:40.570 IPchanged=4
+Mar 28 16:40:40.570 IPresolved=4
+Mar 28 16:40:40.570 IPchangeFailed=0
+Mar 28 16:40:40.571 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:40:40.571 AppRunning=1537.9830139 sec
+Mar 28 16:40:40.635 -------------------------CHANGING-IP------------------------
+Mar 28 16:40:40.653 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:40:44.656 127.0.0.1:9050 IP 27.122.59.100 18ms 
+Mar 28 16:40:50.581 IPchanged=5
+Mar 28 16:40:50.582 IPresolved=5
+Mar 28 16:40:50.582 IPchangeFailed=0
+Mar 28 16:40:50.582 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:40:50.582 AppRunning=1547.994436 sec
+Mar 28 16:40:50.662 -------------------------CHANGING-IP------------------------
+Mar 28 16:40:50.729 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:40:54.219 127.0.0.1:9050 IP 146.70.29.254 24ms 
+Mar 28 16:41:00.589 IPchanged=6
+Mar 28 16:41:00.589 IPresolved=6
+Mar 28 16:41:00.589 IPchangeFailed=0
+Mar 28 16:41:00.590 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:41:00.590 AppRunning=1558.0021033 sec
+Mar 28 16:41:00.685 -------------------------CHANGING-IP------------------------
+Mar 28 16:41:00.764 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:41:01.289 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000001F509B41EC8>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /
+Mar 28 16:41:04.344 127.0.0.1:9050 IP 27.122.59.100 18ms 
+Mar 28 16:41:10.603 IPchanged=7
+Mar 28 16:41:10.603 IPresolved=7
+Mar 28 16:41:10.603 IPchangeFailed=0
+Mar 28 16:41:10.603 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:41:10.603 AppRunning=1568.0159902 sec
+Mar 28 16:41:10.715 -------------------------CHANGING-IP------------------------
+Mar 28 16:41:10.763 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:41:11.518 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000001F505DD9588>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /
+Mar 28 16:41:14.587 127.0.0.1:9050 IP 27.122.59.100 17ms 
+Mar 28 16:41:20.615 IPchanged=8
+Mar 28 16:41:20.615 IPresolved=8
+Mar 28 16:41:20.615 IPchangeFailed=0
+Mar 28 16:41:20.615 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:41:20.616 AppRunning=1578.0280162 sec
+Mar 28 16:41:20.740 -------------------------CHANGING-IP------------------------
+Mar 28 16:41:20.838 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:41:23.891 127.0.0.1:9050 IP 27.122.59.100 18ms 
+Mar 28 16:41:30.630 IPchanged=9
+Mar 28 16:41:30.630 IPresolved=9
+Mar 28 16:41:30.630 IPchangeFailed=0
+Mar 28 16:41:30.630 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:41:30.631 AppRunning=1588.04294 sec
+Mar 28 16:41:30.770 -------------------------CHANGING-IP------------------------
+Mar 28 16:41:30.866 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:41:33.255 127.0.0.1:9050 IP 146.70.29.254 #### 
+Mar 28 16:41:40.644 IPchanged=10
+Mar 28 16:41:40.644 IPresolved=10
+Mar 28 16:41:40.644 IPchangeFailed=0
+Mar 28 16:41:40.644 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:41:40.644 AppRunning=1598.0571021 sec
+Mar 28 16:41:40.802 -------------------------CHANGING-IP------------------------
+Mar 28 16:41:40.834 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:41:43.665 127.0.0.1:9050 IP 146.70.29.254 24ms 
+Mar 28 16:41:50.657 IPchanged=11
+Mar 28 16:41:50.657 IPresolved=11
+Mar 28 16:41:50.657 IPchangeFailed=0
+Mar 28 16:41:50.657 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:41:50.657 AppRunning=1608.0698801 sec
+Mar 28 16:41:50.831 -------------------------CHANGING-IP------------------------
+Mar 28 16:41:50.928 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:41:54.578 127.0.0.1:9050 IP 27.122.59.100 19ms 
+Mar 28 16:42:00.667 IPchanged=12
+Mar 28 16:42:00.667 IPresolved=12
+Mar 28 16:42:00.667 IPchangeFailed=0
+Mar 28 16:42:00.667 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:42:00.667 AppRunning=1618.0799918 sec
+Mar 28 16:42:00.857 -------------------------CHANGING-IP------------------------
+Mar 28 16:42:00.924 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:42:03.664 127.0.0.1:9050 IP 27.122.59.100 17ms 
+Mar 28 16:42:10.675 IPchanged=13
+Mar 28 16:42:10.675 IPresolved=13
+Mar 28 16:42:10.675 IPchangeFailed=0
+Mar 28 16:42:10.675 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:42:10.675 AppRunning=1628.0876312 sec
+Mar 28 16:42:10.878 -------------------------CHANGING-IP------------------------
+Mar 28 16:42:10.987 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:42:15.938 127.0.0.1:9050 IP 27.122.59.100 16ms 
+Mar 28 16:42:20.679 IPchanged=14
+Mar 28 16:42:20.679 IPresolved=14
+Mar 28 16:42:20.679 IPchangeFailed=0
+Mar 28 16:42:20.680 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:42:20.680 AppRunning=1638.0923637 sec
+Mar 28 16:42:20.896 -------------------------CHANGING-IP------------------------
+Mar 28 16:42:20.979 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:42:24.729 127.0.0.1:9050 IP 27.122.59.100 17ms 
+Mar 28 16:42:30.696 IPchanged=15
+Mar 28 16:42:30.696 IPresolved=15
+Mar 28 16:42:30.696 IPchangeFailed=0
+Mar 28 16:42:30.696 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:42:30.696 AppRunning=1648.1083244 sec
+Mar 28 16:42:30.917 -------------------------CHANGING-IP------------------------
+Mar 28 16:42:31.027 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:42:32.330 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000001F504545AC8>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /
+Mar 28 16:42:34.921 127.0.0.1:9050 IP 146.70.29.254 24ms 
+Mar 28 16:42:40.710 IPchanged=16
+Mar 28 16:42:40.710 IPresolved=16
+Mar 28 16:42:40.710 IPchangeFailed=0
+Mar 28 16:42:40.710 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:42:40.710 AppRunning=1658.1230324 sec
+Mar 28 16:42:40.946 -------------------------CHANGING-IP------------------------
+Mar 28 16:42:40.992 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000001F505DC7088>: Failed to establish a new connection: 0x01: General SOCKS server failure')': /
+Mar 28 16:42:41.056 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:42:44.853 127.0.0.1:9050 IP 27.122.59.100 16ms 
+Mar 28 16:42:45.422 IP Changer stopped.
+Mar 28 16:42:46.871 IP Changer started.
+Mar 28 16:42:46.872 IPchanged=0
+Mar 28 16:42:46.872 IPresolved=0
+Mar 28 16:42:46.872 IPchangeFailed=0
+Mar 28 16:42:46.872 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:42:46.872 AppRunning=1664.2851432 sec
+Mar 28 16:42:46.874 -------------------------CHANGING-IP------------------------
+Mar 28 16:42:47.012 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:42:49.873 127.0.0.1:9050 IP 146.70.29.254 24ms 
+Mar 28 16:42:56.885 IPchanged=1
+Mar 28 16:42:56.885 IPresolved=1
+Mar 28 16:42:56.885 IPchangeFailed=0
+Mar 28 16:42:56.885 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:42:56.885 AppRunning=1674.2977916 sec
+Mar 28 16:42:56.905 -------------------------CHANGING-IP------------------------
+Mar 28 16:42:56.950 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:42:58.462 127.0.0.1:9050 IP 27.122.59.100 17ms 
+Mar 28 16:43:06.899 IPchanged=2
+Mar 28 16:43:06.899 IPresolved=2
+Mar 28 16:43:06.899 IPchangeFailed=0
+Mar 28 16:43:06.899 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:43:06.899 AppRunning=1684.3114807 sec
+Mar 28 16:43:06.931 -------------------------CHANGING-IP------------------------
+Mar 28 16:43:06.952 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:43:10.079 127.0.0.1:9050 IP 146.70.29.254 22ms 
+Mar 28 16:43:16.911 IPchanged=3
+Mar 28 16:43:16.911 IPresolved=3
+Mar 28 16:43:16.911 IPchangeFailed=0
+Mar 28 16:43:16.911 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:43:16.911 AppRunning=1694.323947 sec
+Mar 28 16:43:16.958 -------------------------CHANGING-IP------------------------
+Mar 28 16:43:17.051 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:43:20.076 127.0.0.1:9050 IP 27.122.59.100 17ms 
+Mar 28 16:43:21.485 IP Changer stopped.
+Mar 28 16:43:25.141 IP Changer started.
+Mar 28 16:43:25.142 IPchanged=0
+Mar 28 16:43:25.142 IPresolved=0
+Mar 28 16:43:25.142 IPchangeFailed=0
+Mar 28 16:43:25.142 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:43:25.142 AppRunning=1702.554511 sec
+Mar 28 16:43:25.143 -------------------------CHANGING-IP------------------------
+Mar 28 16:43:25.234 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:43:28.280 127.0.0.1:9050 IP 146.70.29.254 23ms 
+Mar 28 16:43:31.905 -------------------------CHANGING-IP------------------------
+Mar 28 16:43:31.961 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:43:33.330 IP Changer stopped.
+Mar 28 16:43:35.647 127.0.0.1:9050 IP 23.106.122.112 44ms 
+Mar 28 16:43:47.266 IP Changer started.
+Mar 28 16:43:47.267 IPchanged=0
+Mar 28 16:43:47.267 IPresolved=1
+Mar 28 16:43:47.267 IPchangeFailed=0
+Mar 28 16:43:47.267 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:43:47.267 AppRunning=1724.6796939 sec
+Mar 28 16:43:47.269 -------------------------CHANGING-IP------------------------
+Mar 28 16:43:47.361 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:43:50.095 127.0.0.1:9050 IP 146.70.29.254 24ms 
+Mar 28 16:43:57.276 IPchanged=1
+Mar 28 16:43:57.276 IPresolved=2
+Mar 28 16:43:57.276 IPchangeFailed=0
+Mar 28 16:43:57.276 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:43:57.276 AppRunning=1734.6884329 sec
+Mar 28 16:43:57.294 -------------------------CHANGING-IP------------------------
+Mar 28 16:43:57.353 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:44:00.595 127.0.0.1:9050 IP 27.122.59.100 17ms 
+Mar 28 16:44:07.276 IPchanged=2
+Mar 28 16:44:07.276 IPresolved=3
+Mar 28 16:44:07.276 IPchangeFailed=0
+Mar 28 16:44:07.276 IPchangeMaxFailedBeforeExit=3
+Mar 28 16:44:07.276 AppRunning=1744.6890402 sec
+Mar 28 16:44:07.323 -------------------------CHANGING-IP------------------------
+Mar 28 16:44:07.402 Requesting new IP 127.0.0.1:9050 OK
+Mar 28 16:44:09.127 IP Changer stopped.
+Mar 28 16:44:09.133 TOR server stopped. 
+Mar 28 16:44:09.316 Retrying (Retry(total=0, connect=None, read=None, redirect=0, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /
+Mar 28 16:44:11.152 ------------------------------------------------------------
+Mar 28 16:44:11.153 Checking files. 
+Mar 28 16:44:11.357 SOCKSHTTPConnectionPool(host='checkip.amazonaws.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x000001F505DC7708>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Mar 28 16:44:11.502 No missing files
+Mar 28 16:44:11.505 ------------------------------------------------------------
+Mar 28 16:44:12.468 TOR server starting 
+Mar 28 16:44:12.471 using direct connection. 
+Mar 28 16:44:12.472 Always obtain unique IP 
+Mar 28 16:44:12.473 OFF
+Mar 28 16:44:12.475 Please wait ... 
+Mar 28 16:44:14.371 5% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=5 TAG=conn SUMMARY="Connecting to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:44:14.775 10% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=10 TAG=conn_done SUMMARY="Connected to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:44:15.040 14% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=14 TAG=handshake SUMMARY="Handshaking with a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:44:15.666 95% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=95 TAG=circuit_create SUMMARY="Establishing a Tor circuit"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:44:50.262 ************************************************************
+Changelog: v1.3.0-8
+************************************************************
+Changed:
+    - ssl validation to avoid ssl errors
+************************************************************
+Changelog: v1.3.0-7
+************************************************************
+Added:
+    + option to always obtain unique ip for single proxy
+            Options > Settings
+    + option to always obtain unique ip for multi proxy
+            Options > Settings  (with ipchanger -m)
+    + API uniqueip port N (N=port number)
+      set On/Off to obtain unique ip for proxy
+    + API blacklist N (N=seconds)
+      set blacklist ip for N seconds
+    + blacklist.db inside Data/tordata/
+    + Options > Settings > Blacklist GUI for specific proxy
+    + torrc inside Data/tordata/
+    + blacklist time inside settings.ini
+    + option to set blacklist only for session
+    + number of all exitNodes in status bar
+    + number of exitNodes for specific country in console
+    + duplicated message check and postpone to prevent spam
+      to console
+    + if single proxy deplete all ips it will postpone next
+      change until new set of ips are available
+    + if multi proxy deplete all ip it will postpone next
+      change until new set of ips are available
+
+Changed:
+    + resolving ip with retry attempts if failed
+    + Options > Settings GUI
+    + Help > About GUI
+    + settings.ini
+    + python script multiplatform (windows and linux)
+    + error reporting in console and logfiles
+
+************************************************************
+Mar 28 16:45:15.294 TOR server stopped. 
+Mar 28 16:45:15.389 TOR server timed out.
+Mar 28 16:45:15.500 TOR server stopped. 
+Mar 28 16:45:17.000 ------------------------------------------------------------
+Mar 28 16:45:17.000 Checking files. 
+Mar 28 16:45:17.087 No missing files
+Mar 28 16:45:17.092 ------------------------------------------------------------
+Mar 28 16:45:18.059 TOR server starting 
+Mar 28 16:45:18.061 using direct connection. 
+Mar 28 16:45:18.062 Always obtain unique IP 
+Mar 28 16:45:18.063 OFF
+Mar 28 16:45:18.065 Please wait ... 
+Mar 28 16:45:19.919 5% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=5 TAG=conn SUMMARY="Connecting to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:45:20.350 10% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=10 TAG=conn_done SUMMARY="Connected to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:45:20.629 14% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=14 TAG=handshake SUMMARY="Handshaking with a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:45:21.516 95% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=95 TAG=circuit_create SUMMARY="Establishing a Tor circuit"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:46:02.503 TOR server stopped. 
+Mar 28 16:46:02.558 TOR server timed out.
+Mar 28 16:46:02.671 TOR server stopped. 
+Mar 28 16:46:04.315 ------------------------------------------------------------
+Mar 28 16:46:04.316 Checking files. 
+Mar 28 16:46:04.397 No missing files
+Mar 28 16:46:04.401 ------------------------------------------------------------
+Mar 28 16:46:05.330 TOR server starting 
+Mar 28 16:46:05.332 using direct connection. 
+Mar 28 16:46:05.333 Always obtain unique IP 
+Mar 28 16:46:05.336 ON
+Mar 28 16:46:05.338 Please wait ... 
+Mar 28 16:46:07.178 5% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=5 TAG=conn SUMMARY="Connecting to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:46:07.452 10% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=10 TAG=conn_done SUMMARY="Connected to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:46:07.857 14% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=14 TAG=handshake SUMMARY="Handshaking with a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:46:08.422 95% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=95 TAG=circuit_create SUMMARY="Establishing a Tor circuit"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:47:52.333 TOR server stopped. 
+Mar 28 16:47:52.341 TOR server timed out.
+Mar 28 16:47:52.461 TOR server stopped. 

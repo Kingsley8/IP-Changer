@@ -1,0 +1,105 @@
+# Tor state file last generated on 2022-03-28 17:10:14 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+CircuitBuildTimeBin 625 1
+CircuitBuildTimeBin 675 4
+CircuitBuildTimeBin 725 1
+CircuitBuildTimeBin 775 6
+CircuitBuildTimeBin 825 14
+CircuitBuildTimeBin 875 6
+CircuitBuildTimeBin 925 5
+CircuitBuildTimeBin 975 3
+CircuitBuildTimeBin 1025 16
+CircuitBuildTimeBin 1075 4
+CircuitBuildTimeBin 1125 1
+CircuitBuildTimeBin 1175 4
+CircuitBuildTimeBin 1225 5
+CircuitBuildTimeBin 1275 2
+CircuitBuildTimeBin 1325 5
+CircuitBuildTimeBin 1375 2
+CircuitBuildTimeBin 1425 1
+CircuitBuildTimeBin 1575 3
+CircuitBuildTimeBin 1625 1
+CircuitBuildTimeBin 1675 1
+CircuitBuildTimeBin 1725 2
+CircuitBuildTimeBin 1825 3
+CircuitBuildTimeBin 1875 7
+CircuitBuildTimeBin 1925 2
+CircuitBuildTimeBin 1975 1
+CircuitBuildTimeBin 2025 5
+CircuitBuildTimeBin 2075 1
+CircuitBuildTimeBin 2125 3
+CircuitBuildTimeBin 2175 3
+CircuitBuildTimeBin 2225 5
+CircuitBuildTimeBin 2325 2
+CircuitBuildTimeBin 2375 2
+CircuitBuildTimeBin 2425 2
+CircuitBuildTimeBin 2475 1
+CircuitBuildTimeBin 2625 1
+CircuitBuildTimeBin 2725 1
+CircuitBuildTimeBin 2825 1
+CircuitBuildTimeBin 3025 1
+CircuitBuildTimeBin 3075 1
+CircuitBuildTimeBin 3625 2
+CircuitBuildTimeBin 4175 1
+CircuitBuildTimeBin 4275 1
+CircuitBuildTimeBin 4325 1
+CircuitBuildTimeBin 4375 2
+CircuitBuildTimeBin 4725 2
+CircuitBuildTimeBin 4925 1
+CircuitBuildTimeBin 4975 1
+CircuitBuildTimeBin 5775 1
+CircuitBuildTimeBin 7325 1
+Dormant 0
+Guard in=default rsa_id=9511E6069DD7CE028BF94D41E8FF541C24C3F14E nickname=bugabuga sampled_on=2022-03-17T06:26:40 sampled_idx=0 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=DBE82FA23B9FE3CB2462A6FCF5289DED3CBF4AEE nickname=spechttor1 sampled_on=2022-03-21T17:13:27 sampled_idx=1 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=7751E37017F7666883DAF2503B3014182828536A nickname=presidents1 sampled_on=2022-03-19T12:05:02 sampled_idx=2 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=EC3EC2E26C9C57B46686E9EFE7EEABD4B570D6D3 nickname=VeilsOfTheOnion sampled_on=2022-03-17T17:16:33 sampled_idx=3 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=E08F2FD44CC16B7015138DC95507A660BEB8851D nickname=LittleSister sampled_on=2022-03-17T01:55:37 sampled_idx=4 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=013ABAED8F4CDB677BE0B5212E4B2583B86035EE nickname=b0rken sampled_on=2022-03-26T00:58:24 sampled_idx=5 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=F7B8A4B5F16ECDF6CA626F96F4E3C219D1A664EC nickname=kerneloopsRelay sampled_on=2022-03-19T00:39:09 sampled_idx=6 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=196C88A8E0E109D6E0966A0A4C8F442A342BFD86 nickname=UnredactedFreedom sampled_on=2022-03-22T06:03:25 sampled_idx=7 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=AA8510CE7B5D13147E048F39B5BF51346B3C676F nickname=Unnamed sampled_on=2022-03-20T08:17:04 sampled_idx=8 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=6C41B08E707662EEB4B436F08CB9F9337D520904 nickname=bauruine sampled_on=2022-03-17T14:25:23 sampled_idx=9 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=A2E2C78E19E02E803232866E84A04552B7702BDC nickname=tirz sampled_on=2022-03-18T06:38:29 sampled_idx=10 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=D8DF9660261B158A9DF6C3D7D63DD92B0FD5B9F7 nickname=Unnamed sampled_on=2022-03-27T17:28:24 sampled_idx=11 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=2958F4F335830EE573977A8AB2B88ADB75818984 nickname=CityOfZion sampled_on=2022-03-16T15:21:50 sampled_idx=12 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=B13C2C569F3FD0C530B7D96E5FF7933DF7A0E834 nickname=porte sampled_on=2022-03-22T09:54:53 sampled_idx=13 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=529CA3EB08AD6EC1791B5110AA3540A4CFA1197F nickname=asfnutt sampled_on=2022-03-26T11:17:52 sampled_idx=14 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=235396838BB8FC7AFA529042B19615DF9E2AF218 nickname=soP49mzpYUFEwVdiFN3 sampled_on=2022-03-21T20:44:01 sampled_idx=15 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=A060FA094A0B057ABEAF80B348201196BD1210CC nickname=styx sampled_on=2022-03-22T20:00:06 sampled_idx=16 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=E7FB7F21D68B3E598C098E3540B6965DC8D934FC nickname=elites2 sampled_on=2022-03-19T14:25:26 sampled_idx=17 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=E8A47089467F86E89686AB3279A70B7F0CC38B5F nickname=DTFNODE51 sampled_on=2022-03-18T02:10:31 sampled_idx=18 sampled_by=0.4.5.10 listed=1
+Guard in=default rsa_id=8B8E30B0A49EBEEF963D2A5AAC28F3BD3068ADEC nickname=bauruine sampled_on=2022-03-21T18:19:54 sampled_idx=19 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=C1C8C8D6E49C5854A01F645951C189F363AECDBD bridge_addr=167.114.45.116:36807 sampled_on=2022-03-27T10:39:50 sampled_idx=0 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=5AF0B780365021D53BF7F42DF0678377E2F033FF bridge_addr=185.220.101.157:12346 sampled_on=2022-03-27T17:44:58 sampled_idx=1 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=CDF2E852BF539B82BD10E27E9115A31734E378C2 bridge_addr=192.95.36.142:443 sampled_on=2022-03-22T00:19:38 sampled_idx=2 sampled_by=0.4.5.10 listed=1 confirmed_on=2022-03-23T22:24:19 confirmed_idx=2 pb_use_attempts=27.000000 pb_use_successes=27.000000 pb_circ_attempts=79.000000 pb_circ_successes=71.000000 pb_successful_circuits_closed=71.000000
+Guard in=bridges rsa_id=88CD36D45A35271963EF82E511C8827A24730913 bridge_addr=37.218.240.34:40035 sampled_on=2022-03-22T17:39:53 sampled_idx=3 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=8FB9F4319E89E5C6223052AA525A192AFBC85D55 bridge_addr=154.35.22.10:80 sampled_on=2022-03-26T08:05:44 sampled_idx=4 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=00DC6C4FA49A65BD1472993CF6730D54F11E0DBB bridge_addr=154.35.22.12:80 sampled_on=2022-03-20T15:23:15 sampled_idx=5 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=A09D536DD1752D542E1FBB3C9CE4449D51298239 bridge_addr=83.212.101.3:50002 sampled_on=2022-03-27T07:21:31 sampled_idx=6 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=FC259A04A328A07FED1413E9FC6526530D9FD87A bridge_addr=85.17.30.79:443 sampled_on=2022-03-23T09:19:06 sampled_idx=7 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=C8CBDB2464FC9804A69531437BCF2BE31FDD2EE4 bridge_addr=38.229.1.78:80 sampled_on=2022-03-26T09:21:33 sampled_idx=8 sampled_by=0.4.5.10 listed=1 confirmed_on=2022-03-17T12:29:55 confirmed_idx=4 pb_use_attempts=9.000000 pb_use_successes=9.000000 pb_circ_attempts=33.000000 pb_circ_successes=29.000000 pb_successful_circuits_closed=29.000000
+Guard in=bridges rsa_id=8DFCD8FB3285E855F5A55EDDA35696C743ABFC4E bridge_addr=109.105.109.165:10527 sampled_on=2022-03-16T18:50:51 sampled_idx=9 sampled_by=0.4.5.10 listed=1 confirmed_on=2022-03-23T03:18:20 confirmed_idx=0 pb_use_attempts=31.000000 pb_use_successes=31.000000 pb_circ_attempts=86.000000 pb_circ_successes=80.000000 pb_successful_circuits_closed=80.000000
+Guard in=bridges rsa_id=C73ADBAC8ADFDBF0FC0F3F4E8091C0107D093716 bridge_addr=154.35.22.9:80 sampled_on=2022-03-22T11:59:52 sampled_idx=10 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=C73ADBAC8ADFDBF0FC0F3F4E8091C0107D093716 bridge_addr=154.35.22.9:443 sampled_on=2022-03-18T20:30:18 sampled_idx=11 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=A832D176ECD5C7C6B58825AE22FC4C90FA249637 bridge_addr=154.35.22.11:80 sampled_on=2022-03-24T13:47:31 sampled_idx=12 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=A832D176ECD5C7C6B58825AE22FC4C90FA249637 bridge_addr=154.35.22.11:443 sampled_on=2022-03-22T03:22:34 sampled_idx=13 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=BBB28DF0F201E706BE564EFE690FE9577DD8386D bridge_addr=109.105.109.147:13764 sampled_on=2022-03-21T06:52:50 sampled_idx=14 sampled_by=0.4.5.10 listed=1 confirmed_on=2022-03-19T11:24:31 confirmed_idx=1 pb_use_attempts=12.000000 pb_use_successes=12.000000 pb_circ_attempts=72.000000 pb_circ_successes=69.000000 pb_successful_circuits_closed=69.000000
+Guard in=bridges rsa_id=00DC6C4FA49A65BD1472993CF6730D54F11E0DBB bridge_addr=154.35.22.12:4304 sampled_on=2022-03-21T05:53:15 sampled_idx=15 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=011F2599C0E9B27EE74B353155E244813763C3E5 bridge_addr=85.31.186.98:443 sampled_on=2022-03-25T05:15:19 sampled_idx=16 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=91A6354697E6B02A386312F68D82CF86824D3606 bridge_addr=85.31.186.26:443 sampled_on=2022-03-20T08:18:42 sampled_idx=17 sampled_by=0.4.5.10 listed=1 confirmed_on=2022-03-21T00:29:05 confirmed_idx=3 pb_use_attempts=6.000000 pb_use_successes=6.000000 pb_circ_attempts=18.000000 pb_circ_successes=16.000000 pb_successful_circuits_closed=16.000000
+Guard in=bridges rsa_id=8FB9F4319E89E5C6223052AA525A192AFBC85D55 bridge_addr=154.35.22.10:443 sampled_on=2022-03-22T07:40:53 sampled_idx=18 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=FE7840FE1E21FE0A0639ED176EDA00A3ECA1E34D bridge_addr=154.35.22.13:16815 sampled_on=2022-03-27T19:11:09 sampled_idx=19 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=A832D176ECD5C7C6B58825AE22FC4C90FA249637 bridge_addr=154.35.22.11:16488 sampled_on=2022-03-22T13:39:11 sampled_idx=20 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=8FB9F4319E89E5C6223052AA525A192AFBC85D55 bridge_addr=154.35.22.10:15937 sampled_on=2022-03-19T08:30:18 sampled_idx=21 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=0DB8799466902192B6C7576D58D4F7F714EC87C1 bridge_addr=216.252.162.21:46089 sampled_on=2022-03-26T13:03:44 sampled_idx=22 sampled_by=0.4.5.10 listed=1 confirmed_on=2022-03-18T21:56:11 confirmed_idx=5 pb_circ_attempts=13.000000 pb_circ_successes=13.000000 pb_successful_circuits_closed=13.000000
+Guard in=bridges rsa_id=7B126FAB960E5AC6A629C729434FF84FB5074EC2 bridge_addr=192.99.11.54:443 sampled_on=2022-03-22T20:27:29 sampled_idx=23 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=D9A82D2F9C2F65A18407B1D2B764F130847F8B5D bridge_addr=37.218.245.14:38224 sampled_on=2022-03-16T12:01:50 sampled_idx=24 sampled_by=0.4.5.10 listed=1 confirmed_on=2022-03-22T07:09:46 confirmed_idx=6 pb_circ_attempts=3.000000 pb_circ_successes=3.000000 pb_successful_circuits_closed=3.000000
+Guard in=bridges rsa_id=FE7840FE1E21FE0A0639ED176EDA00A3ECA1E34D bridge_addr=154.35.22.13:443 sampled_on=2022-03-25T08:07:52 sampled_idx=25 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=6202B87FFE6BF9ACAC95B718DBC55C2BE90F6EF2 bridge_addr=65.131.74.178:34697 sampled_on=2022-03-24T13:14:52 sampled_idx=26 sampled_by=0.4.5.10 listed=1
+Guard in=bridges rsa_id=C73ADBAC8ADFDBF0FC0F3F4E8091C0107D093716 bridge_addr=154.35.22.9:12166 sampled_on=2022-03-22T13:07:27 sampled_idx=27 sampled_by=0.4.5.10 listed=1
+LastWritten 2022-03-28 09:10:14
+TorVersion Tor 0.4.5.10 (git-fd74f7628eba2525)
+TotalBuildTimes 142

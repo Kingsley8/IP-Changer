@@ -1,0 +1,253 @@
+Mar 28 16:47:58.093 This version:            1.3.0-8
+Mar 28 16:47:59.774 Last available version:  1.3.0-8
+Mar 28 16:47:59.777 No update required. 
+Mar 28 16:48:00.135 ************************************************************
+
+IPchanger last update 26.10.2021
+
+************************************************************
+
+Message of the day: project open-sourced :)
+Repo url: https://github.com/seevik2580/tor-ip-changer
+
+************************************************************
+Mar 28 16:48:00.831 Autostart OFF. 
+Mar 28 16:48:00.948 API server binded to 127.0.0.1:14999 (local) OK.
+Mar 28 16:48:07.112 ------------------------------------------------------------
+Mar 28 16:48:07.113 Checking files. 
+Mar 28 16:48:07.187 No missing files
+Mar 28 16:48:07.189 ------------------------------------------------------------
+Mar 28 16:48:08.151 Relays in SG: 47
+ExitNodes in SG: 3
+Mar 28 16:48:08.154 TOR server starting 
+Mar 28 16:48:08.154 using direct connection. 
+Mar 28 16:48:08.157 Always obtain unique IP 
+Mar 28 16:48:08.158 ON
+Mar 28 16:48:08.160 Please wait ... 
+Mar 28 16:48:09.984 5% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=5 TAG=conn SUMMARY="Connecting to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:48:10.359 10% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=10 TAG=conn_done SUMMARY="Connected to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:48:10.625 14% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=14 TAG=handshake SUMMARY="Handshaking with a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:48:11.313 95% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=95 TAG=circuit_create SUMMARY="Establishing a Tor circuit"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:48:23.104 ------------------------------------------------------------
+Mar 28 16:48:23.105 Checking files. 
+Mar 28 16:48:23.110 TOR server stopped. 
+Mar 28 16:48:23.183 Checking file bridges.txt
+Mar 28 16:48:23.228 TOR server timed out.
+Mar 28 16:48:23.342 TOR server stopped. 
+Mar 28 16:48:23.565 Checking file obfs4proxy.exe
+Mar 28 16:48:23.947 Checking file libcrypto-1_1.dll
+Mar 28 16:48:24.328 Checking file libeay32.dll
+Mar 28 16:48:24.693 Checking file libevent-2-1-7.dll
+Mar 28 16:48:25.307 Checking file libevent_core-2-1-7.dll
+Mar 28 16:48:25.706 Checking file libevent_extra-2-1-7.dll
+Mar 28 16:48:26.098 Checking file libwinpthread-1.dll
+Mar 28 16:48:26.697 Checking file libgcc_s_sjlj-1.dll
+Mar 28 16:48:27.321 Checking file libssl-1_1.dll
+Mar 28 16:48:27.689 Checking file libssp-0.dll
+Mar 28 16:48:28.070 Checking file ssleay32.dll
+Mar 28 16:48:28.563 Checking file tor.exe
+Mar 28 16:48:28.990 Checking file zlib1.dll
+Mar 28 16:48:29.337 Checking file geoip
+Mar 28 16:48:29.749 Checking file geoip6
+Mar 28 16:48:30.371 No repair needed
+Mar 28 16:48:32.445 ------------------------------------------------------------
+Mar 28 16:48:32.446 Checking files. 
+Mar 28 16:48:32.520 No missing files
+Mar 28 16:48:32.525 ------------------------------------------------------------
+Mar 28 16:48:33.467 TOR server starting 
+Mar 28 16:48:33.469 using direct connection. 
+Mar 28 16:48:33.471 Always obtain unique IP 
+Mar 28 16:48:33.473 ON
+Mar 28 16:48:33.474 Please wait ... 
+Mar 28 16:48:35.286 0% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=0 TAG=starting SUMMARY="Starting"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:48:36.389 5% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=5 TAG=conn SUMMARY="Connecting to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:48:36.641 10% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=10 TAG=conn_done SUMMARY="Connected to a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:48:36.921 14% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=14 TAG=handshake SUMMARY="Handshaking with a relay"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:48:37.890 95% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=95 TAG=circuit_create SUMMARY="Establishing a Tor circuit"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:50:03.097 TOR server stopped. 
+Mar 28 16:50:03.164 TOR server timed out.
+Mar 28 16:50:03.274 TOR server stopped. 
+Mar 28 16:50:28.635 ------------------------------------------------------------
+Mar 28 16:50:28.636 Checking files. 
+Mar 28 16:50:29.009 No missing files
+Mar 28 16:50:29.015 ------------------------------------------------------------
+Mar 28 16:50:30.270 TOR server starting 
+Mar 28 16:50:30.273 using direct connection. 
+Mar 28 16:50:30.274 Always obtain unique IP 
+Mar 28 16:50:30.275 OFF
+Mar 28 16:50:30.279 Please wait ... 
+Mar 28 16:50:32.637 0% - 250 OK
+250-status/bootstrap-phase=NOTICE BOOTSTRAP PROGRESS=0 TAG=starting SUMMARY="Starting"
+250 OK
+ - 250-status/circuit-established=0
+Mar 28 16:51:06.347 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E177D788>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/dist/1.3.0/changelog
+Mar 28 16:51:06.348 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E177D808>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/dist/1.3.0/changelog
+Mar 28 16:51:06.348 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E1717848>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/dist/1.3.0/changelog
+Mar 28 16:51:09.099 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E084C8C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /summary
+Mar 28 16:51:09.099 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E084CA48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /summary
+Mar 28 16:51:09.100 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E016E848>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /summary
+Mar 28 16:51:12.724 TOR server stopped. 
+Mar 28 16:51:12.828 TOR server timed out.
+Mar 28 16:51:12.936 TOR server stopped. 
+Mar 28 16:51:14.361 TOR server stopped. 
+Mar 28 16:51:16.292 ------------------------------------------------------------
+Mar 28 16:51:16.293 Checking files. 
+Mar 28 16:51:16.294 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E17150C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:16.295 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0864EC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:16.295 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E084E508>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:16.295 Failed...repeating 
+Mar 28 16:51:16.372 ------------------------------------------------------------
+Mar 28 16:51:16.373 Checking files. 
+Mar 28 16:51:16.375 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E084C088>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:16.376 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E5556448>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:16.376 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E5556B88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:16.376 Failed...repeating 
+Mar 28 16:51:17.300 ------------------------------------------------------------
+Mar 28 16:51:17.303 ------------------------------------------------------------
+Mar 28 16:51:17.304 Checking files. 
+Mar 28 16:51:17.307 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E084CE88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:17.307 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0846908>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:17.308 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0846F88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:17.309 Failed...repeating 
+Mar 28 16:51:17.314 Cannot download Tor files
+Mar 28 16:51:17.379 ------------------------------------------------------------
+Mar 28 16:51:17.382 ------------------------------------------------------------
+Mar 28 16:51:17.383 Checking files. 
+Mar 28 16:51:17.385 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E08642C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:17.385 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E084C1C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:17.386 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0863908>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:17.387 Failed...repeating 
+Mar 28 16:51:18.401 ------------------------------------------------------------
+Mar 28 16:51:18.403 ------------------------------------------------------------
+Mar 28 16:51:18.404 Checking files. 
+Mar 28 16:51:18.407 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0863A08>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:18.408 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E177F608>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:18.408 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E177F088>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:18.408 Failed...repeating 
+Mar 28 16:51:19.419 ------------------------------------------------------------
+Mar 28 16:51:19.421 ------------------------------------------------------------
+Mar 28 16:51:19.422 Checking files. 
+Mar 28 16:51:19.425 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0863B88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:19.425 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0863C88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:19.426 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0846248>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:19.427 Failed...repeating 
+Mar 28 16:51:20.432 ------------------------------------------------------------
+Mar 28 16:51:20.433 ------------------------------------------------------------
+Mar 28 16:51:20.436 Checking files. 
+Mar 28 16:51:20.439 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0846BC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:20.439 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E5556748>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:20.439 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E55563C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:20.440 Failed...repeating 
+Mar 28 16:51:21.446 ------------------------------------------------------------
+Mar 28 16:51:21.448 ------------------------------------------------------------
+Mar 28 16:51:21.450 Checking files. 
+Mar 28 16:51:21.452 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E084CD88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:21.452 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0864808>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:21.453 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E08641C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:21.453 Failed...repeating 
+Mar 28 16:51:22.466 ------------------------------------------------------------
+Mar 28 16:51:22.468 ------------------------------------------------------------
+Mar 28 16:51:22.469 Checking files. 
+Mar 28 16:51:22.471 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0835688>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:22.472 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0835CC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:22.472 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0835508>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:22.473 Failed...repeating 
+Mar 28 16:51:23.488 ------------------------------------------------------------
+Mar 28 16:51:23.491 ------------------------------------------------------------
+Mar 28 16:51:23.492 Checking files. 
+Mar 28 16:51:23.494 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E017ED08>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:23.494 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E015E748>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:23.495 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E015E0C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:23.495 Failed...repeating 
+Mar 28 16:51:23.620 TOR server stopped. 
+Mar 28 16:51:24.504 ------------------------------------------------------------
+Mar 28 16:51:24.506 ------------------------------------------------------------
+Mar 28 16:51:24.508 Checking files. 
+Mar 28 16:51:24.510 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0835B48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:24.511 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E08356C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:24.511 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E084E148>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:24.512 Failed...repeating 
+Mar 28 16:51:25.518 ------------------------------------------------------------
+Mar 28 16:51:25.520 ------------------------------------------------------------
+Mar 28 16:51:25.521 Checking files. 
+Mar 28 16:51:25.524 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0864488>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:25.524 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E5556308>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:25.525 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0846E88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:25.525 Failed...repeating 
+Mar 28 16:51:25.628 ------------------------------------------------------------
+Mar 28 16:51:25.629 Checking files. 
+Mar 28 16:51:25.631 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E084CD48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:25.631 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E084C408>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:25.632 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0863288>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:25.632 Failed...repeating 
+Mar 28 16:51:25.634 Cannot download Tor files
+Mar 28 16:51:26.529 ------------------------------------------------------------
+Mar 28 16:51:26.531 ------------------------------------------------------------
+Mar 28 16:51:26.533 Checking files. 
+Mar 28 16:51:26.534 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0846848>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:26.535 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297DFF252C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:26.535 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297DFF25888>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:26.536 Failed...repeating 
+Mar 28 16:51:27.551 ------------------------------------------------------------
+Mar 28 16:51:27.553 ------------------------------------------------------------
+Mar 28 16:51:27.554 Checking files. 
+Mar 28 16:51:27.557 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297DFF22B48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:27.558 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297DFF22748>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:27.558 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297DFF1E208>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:27.559 Failed...repeating 
+Mar 28 16:51:28.238 ------------------------------------------------------------
+Mar 28 16:51:28.239 Checking files. 
+Mar 28 16:51:28.241 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0863508>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:28.241 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0863B08>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:28.242 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E084C688>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:28.242 TOR server stopped. 
+Mar 28 16:51:28.243 Failed...repeating 
+Mar 28 16:51:28.574 ------------------------------------------------------------
+Mar 28 16:51:28.575 ------------------------------------------------------------
+Mar 28 16:51:28.576 Checking files. 
+Mar 28 16:51:28.578 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297DFF25048>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:28.578 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0846188>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:28.578 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E55564C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:28.579 Failed...repeating 
+Mar 28 16:51:29.592 ------------------------------------------------------------
+Mar 28 16:51:29.594 ------------------------------------------------------------
+Mar 28 16:51:29.595 Checking files. 
+Mar 28 16:51:29.597 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0863C88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:29.598 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E084CE48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:29.598 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E084E4C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:29.600 Failed...repeating 
+Mar 28 16:51:30.605 ------------------------------------------------------------
+Mar 28 16:51:30.608 ------------------------------------------------------------
+Mar 28 16:51:30.609 Checking files. 
+Mar 28 16:51:30.611 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297E0835B88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:30.611 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297DFF1EA88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:30.612 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000297DFF1EA48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /seevik2580/tor-ip-changer/master/tor/files.txt
+Mar 28 16:51:30.612 Failed...repeating 
+Mar 28 16:51:30.613 Cannot download Tor files
